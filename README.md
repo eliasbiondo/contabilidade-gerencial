@@ -1,8 +1,3 @@
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
-
 # Mensuração da Margem de Contribuição e Ponto de Equilíbrio em Empresas de Serviço: Uma Abordagem Baseada no Livro "Contabilidade Gerencial" de Garrison, Noreen e Brewer
 
 ## Introdução
