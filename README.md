@@ -50,11 +50,11 @@ $$
 
 Vamos considerar um exemplo de uma empresa de consultoria. A empresa cobra $200 por hora de consultoria e tem custos variáveis de $50 por hora. Além disso, a empresa tem custos fixos mensais de $10,000.
 
-1. **Margem de Contribuição por Hora**: $$ \$200 - \$50  = \$150 \text{ por hora} $$
-2. **Margem de Contribuição Percentual**: $$ \frac{\$150}{\$200} \times 100 = 75\% $$
-3. **Ponto de Equilíbrio em Horas**:$$ \frac{\$10,000}{\$150}  = 66.67 \text{ horas} $$
-4. **Ponto de Equilíbrio em Receitas**: $$ \frac{\$10,000}{0.75} = \$13.333,33 $$
-
+1. **Margem de Contribuição por Hora**: $200 (Preço de Venda) - $50 (Custo Variável) = $150 por hora
+2. **Margem de Contribuição Percentual**: ($150 / $200) x 100 = 75%
+3. **Ponto de Equilíbrio em Horas**: $10,000 (Custos Fixos) / $150 (Margem de Contribuição por Hora) = 66.67 horas
+4. **Ponto de Equilíbrio em Receitas**: $10,000 / 0.75 = $13,333.33
+   
 ### Interpretação
 
 A empresa precisaria faturar aproximadamente 67 horas ou gerar $13,333.33 em receitas para cobrir todos os seus custos e atingir o ponto de equilíbrio. Qualquer receita acima desse valor contribuiria para o lucro da empresa.
